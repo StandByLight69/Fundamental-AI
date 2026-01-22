@@ -1,2 +1,2 @@
 # Fundamental-AI
-Artefact from a university module introducing AI fundamentals, where I recreated rule-based AI in naughts and crosses
+The 5×5 tic-tac-toe game utilises the minimax algorithm for the game’s logic, with alpha–beta pruning as an optimisation.
